@@ -1,6 +1,6 @@
 # Task-17
 
-html file: 
+html file: https://github.com/Yuvresh-Gavale/Task-17/blob/main/index.html
 <br>
 js file: 
 # Clone the repo
