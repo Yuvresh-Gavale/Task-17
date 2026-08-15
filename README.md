@@ -9,7 +9,7 @@ git clone: https://github.com/Yuvresh-Gavale/Task-17/edit/main/README.md
 cd <project-folder>
 
 # Deployed Link
-Link: https: 
+Link: https://tutedudetask-17.netlify.app/
 
 
 # Run the project
